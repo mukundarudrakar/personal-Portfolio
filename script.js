@@ -1,5 +1,5 @@
 var typed = new Typed('#element', {
-    strings: ['Student','Software Developer','Web Developer.'],
+    strings: ['Student','Programmer','Web Developer.'],
     typeSpeed: 70,
   });
 
